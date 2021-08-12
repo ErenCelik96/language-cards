@@ -1,0 +1,15 @@
+.header {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#F9E697;
+}
+
+.header--container {
+    height: 250px;
+    width: 350px;
+    background-image: url("../../assets/react.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
