@@ -1,0 +1,30 @@
+.card--bg {
+    background-color: #F9E697;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 87px;
+}
+
+.card {
+    height: 550px;
+    width: 400px;
+    background-color: #F48B29;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card-icons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+h2 {
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    color: white;
+}

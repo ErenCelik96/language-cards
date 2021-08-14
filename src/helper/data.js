@@ -49,5 +49,3 @@ export const data = [
     options: ["BackEnd", "1995", "	Rasmus Lerdorf"],
   },
 ];
-
-export default data;
