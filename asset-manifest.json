@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/language-cards/static/css/main.4c8af0b0.chunk.css",
+    "main.js": "/language-cards/static/js/main.7f61414e.chunk.js",
+    "main.js.map": "/language-cards/static/js/main.7f61414e.chunk.js.map",
+    "runtime-main.js": "/language-cards/static/js/runtime-main.38fb2b5b.js",
+    "runtime-main.js.map": "/language-cards/static/js/runtime-main.38fb2b5b.js.map",
+    "static/js/2.06d50fdb.chunk.js": "/language-cards/static/js/2.06d50fdb.chunk.js",
+    "static/js/2.06d50fdb.chunk.js.map": "/language-cards/static/js/2.06d50fdb.chunk.js.map",
+    "index.html": "/language-cards/index.html",
+    "static/css/main.4c8af0b0.chunk.css.map": "/language-cards/static/css/main.4c8af0b0.chunk.css.map",
+    "static/js/2.06d50fdb.chunk.js.LICENSE.txt": "/language-cards/static/js/2.06d50fdb.chunk.js.LICENSE.txt",
+    "static/media/cpp.c0a0d2fd.png": "/language-cards/static/media/cpp.c0a0d2fd.png",
+    "static/media/css.616d011c.png": "/language-cards/static/media/css.616d011c.png",
+    "static/media/go.a0b3b49a.png": "/language-cards/static/media/go.a0b3b49a.png",
+    "static/media/java.a507ef79.png": "/language-cards/static/media/java.a507ef79.png",
+    "static/media/javascript.7f875163.png": "/language-cards/static/media/javascript.7f875163.png",
+    "static/media/php.c767c571.png": "/language-cards/static/media/php.c767c571.png",
+    "static/media/python.40f1d1b1.png": "/language-cards/static/media/python.40f1d1b1.png",
+    "static/media/Header.css": "/language-cards/static/media/react.7b78f5c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38fb2b5b.js",
+    "static/js/2.06d50fdb.chunk.js",
+    "static/css/main.4c8af0b0.chunk.css",
+    "static/js/main.7f61414e.chunk.js"
+  ]
+}
